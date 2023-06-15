@@ -353,6 +353,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Case.Case_Classification__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>ConsumptionSchedule.Description</field>
         <readable>true</readable>
     </fieldPermissions>
