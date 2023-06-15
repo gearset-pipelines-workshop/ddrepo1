@@ -1,3 +1,3 @@
 public class GeasetClass1 {
-//Sample Class for pipeline test
+//Sample Class for pipeline tests
 }
